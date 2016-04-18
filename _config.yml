@@ -1,5 +1,6 @@
-timezone:    Europe/Berlin
+timezone:    America/Los Angeles
 future:      false
+baseurl:     "/hireme"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
